@@ -3,3 +3,4 @@ streamlit
 gunicorn
 spacy
 keras
+tensorflow
